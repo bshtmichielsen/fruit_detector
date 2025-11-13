@@ -1,1 +1,2 @@
-# fruit_detector
+# image_object-detection--fruit
+Object Detection example using Pytorch Lightning
